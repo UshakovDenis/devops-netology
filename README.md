@@ -1,2 +1,0 @@
-# devops-netology
-123
